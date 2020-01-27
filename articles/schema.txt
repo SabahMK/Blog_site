@@ -1,0 +1,7 @@
+title:chars (250)
+writer: chars (100)
+content: textarea
+published on: date time
+modified on:
+genre: chars (20 -> choices)
+image: imagefield
